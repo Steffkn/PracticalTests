@@ -5,7 +5,7 @@ Practical tests or Practice range repository will contain the following:
 - Different functions comparison (in working time, memory usage ect.)
 - Git/GitHub tests (commits, conflicts, merging, branches management)
 
-## Tech Info ##
+## Technical Info ##
 
 **Build with:**
 
@@ -15,7 +15,7 @@ Practical tests or Practice range repository will contain the following:
 
 - C#
 
-**Main contributors:** 
+**Contributors:** 
 
 - [Stefan Petrov](https://github.com/Steffkn "steffkn")
 
