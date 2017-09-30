@@ -1,11 +1,17 @@
-# Practical Tests
+# Practical Tests #
 Practical tests or Practice range repository will contain the following:
  
 - Code that is used for testing algorithms (speed, memory usage, reliability ect.)
 - Different functions comparison (in working time, memory usage ect.)
 - Git/GitHub tests (commits, conflicts, merging, branches management)
 
-**Languages:** 
+## Tech Info ##
+
+**Build with:**
+
+- Visual Studio 2017
+
+**Languages:**
 
 - C#
 
