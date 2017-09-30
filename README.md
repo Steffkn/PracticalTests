@@ -1,4 +1,12 @@
-# PracticalTests
-Place for code that is used for testing algorithms and different functions comparison 
+# Practical Tests
+Practical tests or Practice range repository will contain the following:
+ 
+- Code that is used for testing algorithms (speed, memory usage, reliability ect.)
+- Different functions comparison (in working time, memory usage ect.)
+- Git/GitHub tests (commits, conflicts, merging, branches management)
 
-Local changes made on readme file
+Language: C#
+
+Main contributor: [Stefan Petrov](https://github.com/Steffkn "steffkn")
+
+All projects are open source and are under [MIT License](https://github.com/Steffkn/PracticalTests/blob/master/LICENSE "MIT License").
