@@ -5,8 +5,14 @@ Practical tests or Practice range repository will contain the following:
 - Different functions comparison (in working time, memory usage ect.)
 - Git/GitHub tests (commits, conflicts, merging, branches management)
 
-Language: C#
+**Languages:** 
 
-Main contributor: [Stefan Petrov](https://github.com/Steffkn "steffkn")
+- C#
+
+**Main contributors:** 
+
+- [Stefan Petrov](https://github.com/Steffkn "steffkn")
+
+**License**
 
 All projects are open source and are under [MIT License](https://github.com/Steffkn/PracticalTests/blob/master/LICENSE "MIT License").
